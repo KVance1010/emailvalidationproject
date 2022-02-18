@@ -1,4 +1,4 @@
-package validateEmail;
+package validateemail;
 
 import java.util.Scanner;
 
